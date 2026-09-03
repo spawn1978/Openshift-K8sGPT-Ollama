@@ -102,7 +102,7 @@ Esta sección cubre el proceso completo para configurar un motor de IA local y c
 
 2. Establece Ollama como el backend por defecto en K8sGPT:
    ```bash
-   k8sgpt auth default --backend ollama
+   k8sgpt auth default --provider ollama
    ```
 
 ---
