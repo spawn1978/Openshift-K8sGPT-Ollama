@@ -1,6 +1,4 @@
-Se usó un 82% del almacenamiento … Si te quedas sin almacenamiento, no podrás crear, editar ni subir archivos. Obtén 30 GB por USD 0.89/mes.
-documento_tecnico_openshift_ia.md
-100%
+
 # Guía Técnica de Instalación e Integración de IA en Red Hat OpenShift: Entorno Local (CRC) vs. Entorno Empresarial (OpenShift Lightspeed)
 
 ## 1. Introducción y Arquitectura
