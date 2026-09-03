@@ -41,7 +41,7 @@ Esta sección cubre el proceso completo para configurar un motor de IA local y c
 
 ### Prerrequisitos
 - macOS corriendo sobre procesador Apple Silicon (M1/M2/M3/M4).
-- S.O Ventura 13.7.6
+- S.O Tahoe 26.6.2
 - 32G RAM
 - 1T SSD
 - OpenShift CRC instalado e iniciado (`crc start`).
