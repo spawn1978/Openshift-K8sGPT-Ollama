@@ -34,12 +34,16 @@ En la práctica operativa, existen dos escenarios principales de despliegue:
 
 ---
 
-## 3. Opción A: Instalación Local en CRC (MacBook ARM - macOS)
+## 3. Opción A: Instalación Local en CRC (Procesador ARM - macOS)
+
 
 Esta sección cubre el proceso completo para configurar un motor de IA local y conectarlo con tu clúster CRC sin utilizar créditos ni suscripciones.
 
 ### Prerrequisitos
 - macOS corriendo sobre procesador Apple Silicon (M1/M2/M3/M4).
+- S.O Ventura 13.7.6
+- 32G RAM
+- 1T SSD
 - OpenShift CRC instalado e iniciado (`crc start`).
 - CLI de OpenShift (`oc`) configurado en el `PATH`.
 - Homebrew instalado (`/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`).
